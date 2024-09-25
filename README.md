@@ -1,4 +1,4 @@
-<h1><strong>Hey, I'm Leela Yathapu!</strong></h1>👋
+<h1><strong>Hey, I'm Leela Yathapu! 👋</strong></h1>
 
 I'm a passionate Data Analyst with 3.2 years of hands-on experience in data analysis, SQL, Data Visualization (Tableau, Power BI), and statistical analysis, combined with a decade of expertise in IT sector. 
 I hold Bachelor's  degrees in Electronics from VTU University. I'm currently advancing my Data analytics skills through an intensive full time program from Masterschool.
