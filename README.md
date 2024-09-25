@@ -7,12 +7,12 @@ I love communicating complex concepts in a simplified manner and am dedicated to
 Highly detail-oriented and dedicated to accuracy. A collaborative team member, with willingness to contribute beyond my defined role.
 Feel free to explore my latest work on my GitHub profile.If you have any questions or just want to connect, don’t hesitate to reach out!
 
-Let's Connect: 
+<h3><strong>Let's Connect:</strong></h3> 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leelayathapu)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lvsry2020@gmail.com)
 
-Languages and Tools:
+<h3><strong>Languages and Tools:</strong></h3>
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -30,7 +30,4 @@ Languages and Tools:
 ![Seaborn](https://img.shields.io/badge/-Seaborn-2F4F4F?style=flat&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-
-Python SQL MySQL  Database Management  GitHub  Microsoft Office 
-
-Thank you for visiting my profile! 🌟
+<h2><strong>Thank you for visiting my profile!</strong></h2> 🌟
