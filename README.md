@@ -24,6 +24,12 @@ Languages and Tools:
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ![PCA](https://img.shields.io/badge/-PCA-008080?style=flat&logo=matrix&logoColor=white)
 ![Google Spreadsheet](https://img.shields.io/badge/-Google%20Spreadsheet-34A853?style=flat&logo=google-sheets&logoColor=white)
+![KMeans](https://img.shields.io/badge/-KMeans-3776AB?style=flat&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-2F4F4F?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 
 Python SQL MySQL  Database Management  GitHub  Microsoft Office 
