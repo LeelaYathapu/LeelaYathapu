@@ -30,4 +30,4 @@ Feel free to explore my latest work on my GitHub profile.If you have any questio
 ![Seaborn](https://img.shields.io/badge/-Seaborn-2F4F4F?style=flat&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-<h2><strong>Thank you for visiting my profile!</strong></h2> 🌟
+<h2><strong>Thank you for visiting my profile! 🌟</strong></h2>
